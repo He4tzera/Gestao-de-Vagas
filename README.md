@@ -11,7 +11,7 @@ Este é um sistema de gestão de vagas desenvolvido em Java, utilizando as tecno
 
 - Java JDK 8 ou superior
 - Maven
-- Banco de dados PostgreSQL (ou outro suportado pelo Spring Boot)
+- Banco de dados PostgreSQL 
 
 ## Configuração
 
