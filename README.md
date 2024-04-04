@@ -16,8 +16,8 @@ Este é um sistema de gestão de vagas desenvolvido em Java, utilizando as tecno
 ## Configuração
 
 1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/He4tzera/Gestao-de-Vagas
+   
 Importe o projeto em sua IDE preferida.
 
 Configure o banco de dados no arquivo application.properties.
